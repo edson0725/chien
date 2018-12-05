@@ -1,0 +1,56 @@
+
+https://progressbar.tw/posts/1
+http://obtuseitlearner.pixnet.net/blog/post/121911872
+
+
+serverºÝ
+https://www.cnblogs.com/zhengshuangliang/p/4177827.html
+
+https://william123617.wordpress.com/2012/08/12/%E7%94%A8%E9%96%8B%E6%BA%90-asp-net-mvc-%E7%A8%8B%E5%BC%8F-bonobo-git-server-%E6%90%AD%E5%BB%BA-git-%E4%BC%BA%E6%9C%8D%E5%99%A8/
+
+http://shaurong.blogspot.com/2013/08/bonobo-git-server-130.html
+
+https://ithelp.ithome.com.tw/questions/10188714
+
+https://bonobogitserver.com/
+
+https://bonobogitserver.com/install/
+
+
+clientºÝ
+https://git-scm.com/downloads
+
+https://eric0806.blogspot.com/2014/05/ubuntu-git-server-for-small-team-who-use-windows-os.html
+
+
+
+--«ü¥O--
+
+
+https://learngitbranching.js.org/
+https://learngitbranching.js.org/?demo
+
+git merge bugFix
+
+git checkout -b bugFix
+
+git rebase -i HEAD~2
+
+git rebase 
+
+git cherry-pick C2
+
+
+git branch -f master HEAD~3
+
+git checkout master^2
+
+git checkout HEAD~^2~2	
+
+git describe
+git bisect
+
+git pull --rebase;
+git push
+
+show solution
